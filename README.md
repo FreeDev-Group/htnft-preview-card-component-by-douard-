@@ -34,7 +34,7 @@ The design includes:
 
 ## Installation
 1. Clone the repository:  
-```bash
+```bash```
 git clone https://github.com/your-username/nft-preview-card.git
 
 ## Issues Workflow
@@ -70,3 +70,9 @@ Added hover effect on the NFT image:
 ### Issue 5: Final touches and deployment
 **Description:**  
 Checked all images and paths, updated README, verified responsiveness, and deployed the project on GitHub Pages.
+## Deployment
+- The project is deployed using GitHub Pages: [Live Demo](https://freedev-group.github.io/htnft-preview-card-component-by-douard-/)
+
+## Author
+- Your Name / GitHub: [edouardkne](https://github.com/edouardkne)  
+- Inspired by the NFT Preview Card challenge on Frontend Mentor: [Challenge Link](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
