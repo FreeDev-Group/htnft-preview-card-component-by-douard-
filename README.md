@@ -8,7 +8,7 @@ This project reproduces exactly the provided design, including the hover effect 
 - [Preview](#preview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Issues Workflow](#issuesworkflow)
 - [Deployment](#deployment)
 - [Author](#author)
 
@@ -22,7 +22,7 @@ The design includes:
 - Responsive layout for mobile and desktop
 
 ## Preview
-![NFT Preview Card](preview.jpg)
+![NFT Preview Card](preview.png)
 
 ## Features
 - Full HTML structure for the NFT card  
@@ -36,3 +36,37 @@ The design includes:
 1. Clone the repository:  
 ```bash
 git clone https://github.com/your-username/nft-preview-card.git
+
+## Issues Workflow
+
+This project was completed following 5 main issues:
+
+### Issue 1: Project Setup
+**Description:**  
+Initial setup of the project folder, HTML and CSS files, images, and README. GitHub repository initialized.
+
+### Issue 2: Build HTML structure for NFT card
+**Description:**  
+Added the full HTML structure for the NFT card:
+- NFT image with overlay placeholder
+- Title and description
+- Price and time left
+- Creator section with avatar
+
+### Issue 3: Style NFT card with CSS
+**Description:**  
+Added CSS styling to match the challenge design:
+- Colors, fonts, layout, and spacing
+- Price, time info, and creator section
+- Responsive design for mobile and desktop
+
+### Issue 4: Add hover interaction to NFT image
+**Description:**  
+Added hover effect on the NFT image:
+- Overlay with cyan color appears
+- “View” icon shows on hover
+- Interaction only with CSS, no JavaScript
+
+### Issue 5: Final touches and deployment
+**Description:**  
+Checked all images and paths, updated README, verified responsiveness, and deployed the project on GitHub Pages.
